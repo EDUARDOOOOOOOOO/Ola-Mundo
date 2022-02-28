@@ -23,3 +23,14 @@ Lista de tarefas:
 ![Imagen](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzrLbSiX84gNMNpWhJzykdbHm2fffQbpztww&usqp=CAU)
 ---
 [Meu Perfil no Guithub](https://github.com/Eduardo-K197)
+---
+Exemplo   | Valor do exemplo
+--------- | ------
+Exemplo 1 | R$ 10
+Exemplo 2 | R$ 8
+Exemplo 3 | R$ 7
+Exemplo 4 | R$ 8
+----
+Alinhado a esquerda | Centralizado | Alinhado a direita
+:--------- | :------: | -------:
+Valor | Valor | Valor
