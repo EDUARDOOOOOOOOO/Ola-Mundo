@@ -21,3 +21,5 @@ Lista de tarefas:
 - [x] fala que eu amo brenda
 ---
 ![Imagen](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzrLbSiX84gNMNpWhJzykdbHm2fffQbpztww&usqp=CAU)
+---
+[Meu Perfil no Guithub](https://github.com/Eduardo-K197)
