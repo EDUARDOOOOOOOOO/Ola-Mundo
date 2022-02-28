@@ -19,4 +19,4 @@ Lista de tarefas:
 - [x] Fazer uma lista em markdown
 - [x] Digitar uma palavra em negrito
 - [x] fala que eu amo brenda
-![Imagen](https://www.clipartmax.com/png/middle/103-1037949_symbol-gamefluence-250-x-250-pixels.png)
+![Imagen](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzrLbSiX84gNMNpWhJzykdbHm2fffQbpztww&usqp=CAU)
