@@ -9,10 +9,10 @@ Lista númerada:
  3.Test
  ---
 Lista demarcada:
- *Test
- *Test
-    *Test
-*test
+ * Test
+ * Test
+    * Test
+* test
 Lista de tarefas:
 - []Criar um site e hospedar ele no Guithub
 - []Fazer uma lista em markdown
