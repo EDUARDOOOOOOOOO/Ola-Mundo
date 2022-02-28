@@ -8,7 +8,7 @@ Lista númerada:
  2.Test2
  3.Test
  ---
- Lista demarcada:
+Lista demarcada:
  *Test
  *Test
     *Test
