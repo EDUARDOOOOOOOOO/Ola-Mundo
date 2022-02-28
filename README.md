@@ -15,7 +15,7 @@ Lista demarcada:
 * Test
 ***
 Lista de tarefas:
-- []Criar um site e hospedar ele no Guithub
-- [x]Fazer uma lista em markdown
-- [x]Digitar uma palavra em negrito
-- [x]fala que eu amo brenda
+- [] Criar um site e hospedar ele no Guithub
+- [x] Fazer uma lista em markdown
+- [x] Digitar uma palavra em negrito
+- [x] fala que eu amo brenda
