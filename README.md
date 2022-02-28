@@ -40,3 +40,12 @@ Num | Nome | Nota
 1 | Brenda | 10,0
 2 | Edaurdo | 8,0
 3 | Evelym | 6,0
+
+Para que serve o comando`document.getElementByld()`
+```
+num = int(input('Digite um valor:'))
+if num%2 ==0:
+print(f'O valor {num} é par)
+else:
+print(f'O valor {num} é impar)
+```
