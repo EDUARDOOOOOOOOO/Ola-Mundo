@@ -17,4 +17,4 @@ Lista de tarefas:
 -[]Criar um site e hospedar ele no Guithub
 -[]Fazer uma lista em markdown
 -[]Digitar uma palavra em negrito
--[]fala que eu amo brenda
+-[x]fala que eu amo brenda
