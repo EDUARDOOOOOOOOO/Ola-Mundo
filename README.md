@@ -4,9 +4,9 @@
  _*misturas*_ 
  ---
 Lista númerada:
- 1.Test1
- 2.Test2
- 3.Test
+ 1. Test1
+ 2. Test2
+ 3. Test
  ---
 Lista demarcada:
  * Test
