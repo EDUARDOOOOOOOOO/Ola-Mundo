@@ -3,7 +3,7 @@
  palavras em **negrito**
  _*misturas*_ 
  ---
-Lista númerada:
+Lista **númerada**:
  1. Test1
  2. Test2
  5. Test3
