@@ -12,9 +12,10 @@ Lista demarcada:
  * Test
  * Test
     * Test
-* test
+* Test
+***
 Lista de tarefas:
 - []Criar um site e hospedar ele no Guithub
-- []Fazer uma lista em markdown
-- []Digitar uma palavra em negrito
+- [x]Fazer uma lista em markdown
+- [x]Digitar uma palavra em negrito
 - [x]fala que eu amo brenda
