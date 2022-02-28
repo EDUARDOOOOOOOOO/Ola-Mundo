@@ -50,4 +50,4 @@ else:
     print(f'O valor {num} é impar')
 
 ```
-Olá mundo :hand
+Olá mundo :hand:
