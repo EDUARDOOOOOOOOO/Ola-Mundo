@@ -1,6 +1,6 @@
 # Olá, Mundo!
  Primeiro repositorio do curso de git
- palavras em *negrito*
+ palavras em **negrito**
  _*misturas*_ 
  ---
 Lista númerada:
