@@ -37,6 +37,6 @@ Valor | Valor | Valor
 ---
 Num | Nome | Nota
 ---|---|---
-1 | Brenda | 1,0
+1 | Brenda | 10,0
 2 | Edaurdo | 8,0
 3 | Evelym | 6,0
