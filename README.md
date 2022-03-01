@@ -38,8 +38,9 @@ Valor | Valor | Valor
 Num | Nome | Nota
 ---|---|---
 1 | Brenda | 10,0
-2 | Edaurdo | 8,0
-3 | Evelym | 6,0
+2 | Evelym | 10,0
+3 | Edaurdo | 8,0
+
 
 Para que serve o comando`document.getElementByld()`
 ```
