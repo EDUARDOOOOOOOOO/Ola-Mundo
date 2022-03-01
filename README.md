@@ -52,4 +52,3 @@ else:
 
 ```
 Olá mundo :hand:
-:nauseated:
